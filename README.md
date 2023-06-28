@@ -1,7 +1,7 @@
 # DIY Smart Mirror using Chromecast + HomeKit integration
 
 This is a step-by-step walkthrough on how i build up my own smart mirror. Please feel free to ask questions or to give me feedback :-) 
-![mirror.JPG](images/mirror1.JPG)
+![mirror.JPG](mirror1.JPG)
 ## Index 
 * [**Introduction**](#introduction)
 * [Requirements](#requirements)
