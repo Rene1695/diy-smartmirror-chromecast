@@ -1,4 +1,4 @@
-# DIY Smart Mirror using Chromecast + Nanoleaf© Stripe
+# DIY Smart Mirror using Chromecast + HomeKit integration
 
 This is a step-by-step walkthrough on how i build up my own smart mirror. Please feel free to ask questions or to give me feedback :-) 
 ![mirror.JPG](images%2Fmirror1.JPG)
