@@ -1,7 +1,7 @@
 # DIY Smart Mirror using Chromecast + HomeKit integration
 
 This is a step-by-step walkthrough on how i build up my own smart mirror. Please feel free to ask questions or to give me feedback :-) 
-![mirror.JPG](images%2Fmirror1.JPG)
+![mirror.JPG](images/mirror1.JPG)
 ## Index 
 * [**Introduction**](#introduction)
 * [Requirements](#requirements)
@@ -10,7 +10,7 @@ This is a step-by-step walkthrough on how i build up my own smart mirror. Please
 * [**Step 1: Part selection**](#step-1-part-selection)
 * [**Step 2: Fusion 360 Design**](#step-2-fusion-360-design)
 ---
-![animation.gif](images%2Fanimation.gif)
+![animation.gif](images/animation.gif)
 * [**Step 3: Mechanical assembly**](#step-3-mechanical-assembly)
 * [Step 3.1: Building the Frame](#step-31-building-the-frame)
 * [Step 3.2: Integrating the mirror glas](#step-32-integrating-the-mirror-glas)
